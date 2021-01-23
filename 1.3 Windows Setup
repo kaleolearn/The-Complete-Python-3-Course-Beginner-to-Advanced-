@@ -1,0 +1,27 @@
+22/i/2021 Friday 15:37 PM
+
+Installing python for windows:
+
+1. go to python.org
+
+2. Download the most up to date version of Python 3 for this course.
+
+3. Launch the program after it is done installing in your browser.
+
+4. Click on the checkbox for "Add Python 3 to PATH" then click Install now
+
+5. Go to control panel
+-> go to view by: -> click on "small icons"
+-> click on "system"
+-> go to the left side of the window and click on "advanced system settings"
+-> in the "advanced" tab, click on the "environment variables" button
+-> double-click on the "PATH" variable, and you should see a couple of variables that say "python36-32"
+-> open up command prompt
+  -> if you type "python" next to your user name and hit enter, your computer should successfully find the program.
+  
+6. Install webscraper package
+-> go into command prompt
+-> type "pip install requests"
+  -> if you get an error, instead type in "python -m pip install requests"
+-> then type "python" and enter by your username
+-> type "import requests" and hit enter
