@@ -1,0 +1,38 @@
+22/i/2021 Friday 15:18 PM START
+
+First thing you need to do of course to start coding in python is installing the program.
+
+There's three ways we're going to learn how to install in this course:
+1. MAC
+- The instructor will be using MAC for the entire course.
+
+2. Linux
+
+3. Windows
+
+__________________
+
+For MAC:
+
+1. Open up terminal
+- you can find it in launchpad
+
+2. Install "homebrew" from the homebrew website
+- copy and paste line of code in terminal prompt
+
+3. run "sudo apt-get install python3" in terminal prompt
+
+For Windows:
+
+1. Go to python.org
+
+2. Go to download sections
+
+3. drop down click on windows
+
+4. Click on latest python 3 release
+
+5. If you're running your computer on 64 bit operating system, Download "Windows x86-64 executable installer"
+- If you're running a 32 bit operating system, Download "Windows x86 executable installer"
+
+15:34 PM END
