@@ -1,0 +1,15 @@
+20:04 PM Friday 29/i/2021 START
+
+Difference between an interpreted programming language and compiled programming languages
+
+COMPILED: 
+  write code, 
+  save in a file, 
+  but can't run that code yet. 
+  You need to compile that code into binary. 
+
+INTERPRETER: 
+  write code, 
+  save in a file, 
+  AND immediately have the computer understand it when you run the code.
+  No need to compile it into binary.
