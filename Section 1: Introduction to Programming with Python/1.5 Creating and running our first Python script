@@ -1,2 +1,9 @@
 20:20 PM Friday 29/i/2021 START
 
+1. go into command prompt
+2. type "nano" to access the nano text editor
+3. type test.py
+4. hit enter
+5. type this code:
+print("Hello World")
+6. go back to the main command prompt and type: python3 test.py and you should see Hello World!
