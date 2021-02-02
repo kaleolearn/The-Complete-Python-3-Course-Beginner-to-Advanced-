@@ -1,0 +1,32 @@
+20:14 PM Monday 1/ii/2021 START
+
+you can actually code using notepad ++ and run it into command prompt, but it's not as efficient as using an IDE.
+
+IDE (integrated development environment)
+
+How to get the IDE "Pycharm"
+  1. Google search "Pycharm"
+  2. Download the community version of Pycharm. (It's free).
+  
+Using Pycharm
+  1. Launch Pycharm
+  2. Click "create a new project"
+  3. Name the project "First Program" and hit create.
+    - on the left, you see all the django, bootstrap, etc. We'll get to that later (i hope).
+  4. Go to the "project view" window on the left side, right click on "first project" and create a new file.
+  5. Name the file "main".
+  6. Go to view -> tool windows
+    -> project (command + 1) toggles the project side bar on the left side
+    -> "python console" opens up the python console.
+    -> "terminal" opens terminal
+    
+How to run stuff
+  1. Go to run -> click on run
+  2. click on edit configurations
+  3. hit the plus sign on top left corner
+  4. choose python
+  5. name the config "python run"
+  6. change the script to "main.py" or whatever script you want it to run
+  7. Click "apply" on bottom right -> click "run"
+  
+20:34 Monday 1/ii/2021 END
